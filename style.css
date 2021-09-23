@@ -1,0 +1,82 @@
+/* VARIE */
+
+body{
+background-image: url(background.jpg);
+background-repeat: no-repeat;
+color: white;
+background-size: 2000px;
+}
+
+.contenitore {
+  margin: 50px 180px 50px 180px;
+  background-color: rgba(79,79,79,0.7);
+  height: 600px;
+  width: 1300px;
+  padding: 100px;
+  position: fixed;
+  border-radius: 10px;
+  }
+
+
+
+header, nav{
+  text-align: center;
+  color: rgba(100,100,250,0.9);
+}
+
+
+/* HEADER */
+
+.logo{
+  width: 100px;
+  }
+
+.logo-text{
+  text-align: center;
+  font-family: 'Gluten', cursive;
+  width: 100px;
+  font-size: 140px;
+  }
+
+.logo-text2{
+  font-family: 'Gluten', cursive;
+  line-height: 40px;
+  font-size: 40px;
+  }
+
+
+/* NAV */
+
+.bottoni{
+  line-height: 50px;
+  background-color: rgba(100,100,250,0.7)
+  }
+
+
+/* MAIN */
+
+.monopattino{
+  font-family: 'Ubuntu', sans-serif;
+  color: solid black;
+  margin-top: 20px;
+  }
+
+.carica1, .carica2, .carica3{
+  line-height: 40px;
+  border-radius:10px;
+  }
+
+.carica1{
+  background-color: rgb(0,187,60);
+  margin-right: 500px;
+  }
+
+.carica2{
+  background-color: #ffa514;
+  margin-right: 750px;
+  }
+
+.carica3{
+   background-color: rgb(200,0,30);
+   margin-right: 950px;
+   }
